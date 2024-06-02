@@ -1,0 +1,49 @@
+/* _content/MileiTrumpCoin/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-s10wsuwcsa] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-s10wsuwcsa] {
+  color: #0077cc;
+}
+
+.btn-primary[b-s10wsuwcsa] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-s10wsuwcsa], .nav-pills .show > .nav-link[b-s10wsuwcsa] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-s10wsuwcsa] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-s10wsuwcsa] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-s10wsuwcsa] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-s10wsuwcsa] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-s10wsuwcsa] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
